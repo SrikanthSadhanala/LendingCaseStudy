@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Exploratory Data Analysis of the loan details of a Consumer Finance Company.
+> Exploratory Data Analysis of the loan details of a Consumer Finance Company. Data of the past loans with the status of the loan whether it is fully paid or defaulted was provided.
 
 
 ## Table of Contents
@@ -11,39 +11,34 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+We did a thorough analysis to understand, clean and segment the data.
+Kinds of analysis included univariant, bivariant and multivariant analysis.
+Analysed the loan repayment probabilies with respective to purpose, grade, interset rat, loan amount etc.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Files
+- Group_Facilitator_Name.ipynb has the python code and analysis
+- Lending case study.pdf has observation and concise analysis
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Jupiter Notebook
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by IIIT Bangalore & Upgrad..
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
+Srikanth Sadhanala
+Srinivas Vaskuri
 
 <!-- Optional -->
 <!-- ## License -->
